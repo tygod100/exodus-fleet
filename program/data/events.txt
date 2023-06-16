@@ -1,0 +1,4 @@
+{small asteroid;You find small asteroid; GIVE 7 BASIC}
+{smaller asteroid;You find small asteroid; GIVE 5 BASIC}
+{recycling;You recycle some of your resources; GIVE 2 BASIC}
+{small gift;You find a small gift on your desk, you aren't sure what it is but it's probably worth something; GIVE 1 BASIC}
